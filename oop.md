@@ -20,3 +20,11 @@
 - Two types:
   - **Compile-time (Method Overloading)** — same method name, different parameters.
   - **Runtime (Method Overriding)** — subclass provides its own version of a method.
+ 
+## Abstract classes & interfaces
+
+
+
+
+### Common Interview Questions
+---
